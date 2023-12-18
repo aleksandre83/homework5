@@ -1,0 +1,183 @@
+
+body{
+    width: 1440px;
+    margin: auto;
+}
+
+/* *header */
+
+header {
+    background-color: #D9D9D9;
+    width: 1440px;
+    margin: auto;
+    padding: 50px 130px;
+    
+}
+.header_logo {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 287px;
+    
+    
+}
+
+.heder_nav{
+    display: inline-block;
+    vertical-align: middle; 
+    
+}
+.li_class{
+    margin-inline: 38px;
+    
+}
+.header_li{
+    display: inline-block;
+}
+.index_li{
+    margin:  38px;
+}
+
+ .no_active{
+    color: #717276;
+    font-size: 24px;
+}
+.active{
+    color:#A62B28;
+    font-size: 24px;
+}
+.background_image {  
+    
+    display: block;
+    margin: 160px auto;
+
+}
+
+/* section 1 */
+
+.section_1{
+    margin-bottom: 364px;
+}
+
+.section_1_div_1{
+    width: 380px;
+    height: 512px;
+    display: inline-block;
+    margin: 40px 20px 50px 130px;
+    vertical-align: middle;
+    
+}
+h4{
+    color: #717276;
+    font-family: DejaVu Sans;
+    font-size: 24px;
+     margin-top: 50px;
+    
+}
+h5{
+    color: #000;
+    font-family: ALK Life;
+    font-size: 24px;
+    margin-top: 8px;
+}
+.figure_P{
+    color: #000;
+    font-family: DejaVu Sans;
+    font-size: 24px;
+    margin-top: 8px;
+    margin-bottom: 190px;   
+
+}
+.figure_2{
+    width: 380px;
+    height: 512px; 
+    display: inline-block;
+    vertical-align: middle;
+        
+}
+
+.figure_3{
+    width: 380px;
+    height: 512px;
+    display: inline-block;
+    vertical-align: middle;
+    
+    
+    
+}
+
+/* section_2 */
+
+.section_div{
+    margin-bottom: 40px;
+    display: inline-block;
+    
+}
+.section_img{
+    width: 100px;
+    height: 100px; 
+    margin-left: 130px;   
+    background-color: #A62B28;    
+    vertical-align: middle; 
+}
+
+h3 { 
+    display: inline-block;   
+    font-size: 32px; 
+    vertical-align: middle;
+    margin-left: 40px; 
+    font-family: "DejaVu Sans", sans-serif;      
+     
+}
+
+.section_img2{
+    margin-left:130px ;
+}
+.section_div_2{
+   margin-bottom: 160px; 
+}
+
+.section_img2_1{
+   margin-inline: 20px;
+   
+}
+    
+
+
+
+
+
+
+
+/* footer */
+
+.footer{
+    height: 248px;
+    padding: 71px 130px;
+    background-color:#D9D9D9;
+}
+.footer_li{
+    font-family: "ALK Life", sans-serif;
+    font-size: 24px;
+}
+.footer2{
+    margin: 8px;
+}
+.footer_nav{
+    display: inline-block;
+    vertical-align: top;
+    margin-right:780px ;
+}
+.footer_div{
+    display: inline-block;
+    vertical-align: top;
+}
+.foot_div{
+    margin-inline: 21px;
+}
+.foot_div_lin{
+    margin-right: 21px;
+}
+
+
+
+
